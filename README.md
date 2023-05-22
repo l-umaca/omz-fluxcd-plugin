@@ -3,6 +3,10 @@
 This plugin adds completion for the [FluxCD command line](https://fluxcd.io/flux/cmd/),
 as well as some aliases for the most common flux commands.
 
+## Installation
+Run
+`git clone https://github.com/l-umaca/omz-fluxcd-plugin.git $ZSH_CUSTOM/plugins/fluxcd`
+
 To use it, add `fluxcd` to the plugins array in your zshrc file:
 
 ```zsh
